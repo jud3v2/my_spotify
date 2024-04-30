@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rhap_container {
+    background-color: #1a2238;
+    border: 1px solid #ff6a3d;
+    border-radius: 10px;
+}
+
+.rhap_progress-filled {
+    background: #ff6a3d;
+}
+
+.rhap_progress-indicator {
+    background: #ff6a3d;
+}
+
+.rhap_controls-section {
+    color: #ff6a3d;
+}
+
+.rhap_additional-controls {
+    color: #ffffff;
+}
+
+.rhap_main-controls-button {
+    color: #ff6a3d;
+}
+
+.rhap_button-clear {
+    color: #ffffff;
+}
+
+.rhap_time {
+    color: #ffffff;
+}
+
+.rhap_download-progress {
+    background: #eb9074;
+}
+
+.rhap_repeat-button,
+.rhap_volume-button {
+    color: #ffffff;
+}
+
+.rhap_play-pause-button,
+.rhap_skip-buttons {
+    color: #ff6a3d;
+}
